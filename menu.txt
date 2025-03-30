@@ -1,0 +1,20 @@
+1 20.00 Bread Pakora
+2 25.50 Samosa
+3 30.00 Aloo Paratha
+4 35.00 Chole Bhature
+5 40.00 Paneer Pakora
+6 50.00 Veg Sandwich
+7 60.00 Cheese Sandwich
+8 70.00 Masala Dosa
+9 75.00 Idli Sambar
+10 80.00 Veg Thali
+11 90.00 Dal Makhani Rice
+12 100.00 Paneer Butter Masala
+13 110.00 Chilli Paneer
+14 120.00 Manchurian
+15 130.00 Fried Rice
+16 140.00 Veg Hakka Noodles
+17 150.00 Cold Coffee
+18 160.00 Chocolate Shake
+19 170.00 Mango Shake
+20 180.00 Special Thali
